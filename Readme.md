@@ -102,7 +102,7 @@
 4. [Weather API](https://www.weatherapi.com/)
 5. [OMDb Api](https://www.omdbapi.com/)
 6. [The AudioDb](https://www.theaudiodb.com/)
-7.[TomTom](https://developer.tomtom.com/)
+7. [TomTom](https://developer.tomtom.com/)
 
 #### Design Tools
 
